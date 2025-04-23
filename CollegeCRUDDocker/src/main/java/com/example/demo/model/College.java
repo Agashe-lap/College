@@ -14,6 +14,7 @@ public class College {
 	private String name;
 	private float fees;
 	private String email;
+	private String address;
 	public College() {
 		super();
 		// TODO Auto-generated constructor stub
